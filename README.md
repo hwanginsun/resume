@@ -2,21 +2,22 @@
 
 #### Educations:
 
-Chung-Ang University <br>
-2009.03 ~ 2015.02
+Chung-Ang Universityf(Mechanical Engineering)<br>
+2009.03 ~ 2015.02 <br>
 
 #### Work Experience:
 
-LG-Electronics(Computer Vision Algorithm Engineer) <br>
-2014.12 ~ 2019.04
+LG-Electronics(Computer Vision Algorithm Developer) <br>
+2014.12 ~ 2019.04 <br>
 
-#### Projects Summary(AI):
-[**KNN, K-Means, Regression, Classification, DNN, CNN, RNN**](https://github.com/hwanginsun/AI_project) <br>
-
-#### major project(AI):
+#### projects(AI):
 DNN(진행예정) <br>
 CNN(진행예정) <br>
 RNN(진행예정) <br>
+
+#### Study on basic concepts:
+[**KNN, K-Means, Regression, Classification, DNN, CNN, RNN**](https://github.com/hwanginsun/AI_project) <br>
+
 
 #### Skills:
 [**Algorithm**](https://github.com/hwanginsun/algorithm)<br>
