@@ -7,7 +7,7 @@ Chung-Ang Universityf(Mechanical Engineering)<br>
 
 #### Work Experience:
 
-[**LG-Electronics(Computer Vision Algorithm Developer)**](https://github.com/hwanginsun/resume/work_experience) <br>
+[**LG-Electronics(Computer Vision Algorithm Developer)**](https://github.com/hwanginsun/resume/tree/master/work_experience) <br>
 2014.12 ~ 2019.04 <br>
 
 

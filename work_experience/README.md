@@ -5,11 +5,12 @@
 - I have developed an Algorithm that checks the Pixel status of the TV Panel in real time. <br>
 - I implemented it directly without using image processing algorithms such as OpenCV. <br>
 The reason for this is that it is difficult to know and debug when the library is down. <br> 
-Implemented in order to ensure reliability and promptness in the line produced in real time <br>
+Implemented in order to ensure reliability in the line produced in real time <br>
 
 ## Experienced technology:
 
 ### real-time large image processing
+![image](https://user-images.githubusercontent.com/30209848/59492796-adac5f80-8ec4-11e9-92d5-a2848bc28079.png)
 - Since I have to operate in real time, have managed issues such as stability, accuracy, and speed.
 
 ### 
